@@ -1,6 +1,6 @@
 # **🕹️ Gaming Data Analytics**
 
-# **📘 Project Overview
+# **📘 Project Overview**
 
   * Gaming Data Analytics is a machine learning and visualization-based project aimed at analyzing player behavior and performance in games.
   
